@@ -4,14 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<?php
-
-function introduce(): void
-{
-    
-}
-
-?>
+function ();
 
 Programing Language
   -  HTML 
