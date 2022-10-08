@@ -9,9 +9,9 @@ Programing Language
   -  HTML 
   -  CSS
   -  JAVASCRIPT
-  -  PHP                🐘
+  -  PHP                
   -  SQL
-  -  GO                  🐭
+  -  GO                  
   
 Framework & library
   -  Bootstrap
