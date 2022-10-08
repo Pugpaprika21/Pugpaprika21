@@ -11,7 +11,7 @@ Programing Language
   -  JAVASCRIPT
   -  PHP                🐘
   -  SQL
-  -  GO                 🐭
+  -  GO                  🐭
   
 Framework & library
   -  Bootstrap
