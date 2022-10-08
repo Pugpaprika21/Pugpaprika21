@@ -11,13 +11,13 @@ Programing Language
   -  JAVASCRIPT
   -  PHP                🐘
   -  SQL
-  -  GO
+  -  GO                 🐭
   
 Framework & library
   -  Bootstrap
   -  Laravel
   -  JQUERY
-  -  vue
+  -  Vue
 
 tool
   -  visual studio code
