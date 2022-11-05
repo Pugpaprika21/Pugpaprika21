@@ -9,14 +9,12 @@ Programing Language
   -  CSS
   -  JAVASCRIPT
   -  PHP                
-  -  SQL
-  -  GO                  
+  -  SQL               
   
 Framework & library
   -  Bootstrap
   -  Laravel
   -  JQUERY
-  -  Vue
 
 tool
   -  visual studio code
