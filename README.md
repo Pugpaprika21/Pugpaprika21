@@ -15,6 +15,7 @@ Framework & library
   -  Bootstrap
   -  Laravel
   -  JQUERY
+  -  VueJs
 
 tool
   -  visual studio code
