@@ -9,9 +9,10 @@ Programing Language
   
 Framework & library
   -  Bootstrap
-  -  Laravel
-  -  JQUERY
+  -  JQuery
   -  VueJS
+  -  Laravel Framework
+  -  Slim Framework
 
 tool
   -  visual studio code
