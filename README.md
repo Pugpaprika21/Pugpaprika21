@@ -5,7 +5,8 @@ Programing Language
   -  CSS
   -  JAVASCRIPT
   -  PHP                
-  -  SQL               
+  -  SQL
+  -  Golang       
   
 Framework & library
   -  Bootstrap
