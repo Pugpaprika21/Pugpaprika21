@@ -17,7 +17,6 @@ Framework & library
 tool
   -  visual studio code
   -  git
-  -  xampp
   -  navicat
   -  composer
   
