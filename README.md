@@ -11,7 +11,7 @@ Programing Language
 Framework & library
   -  Bootstrap
   -  JQuery
-  -  VueJS
+  -  Vue Framework
   -  Laravel Framework
   -  Slim Framework
 
