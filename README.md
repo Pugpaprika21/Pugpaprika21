@@ -20,6 +20,11 @@ tool
   -  git
   -  navicat
   -  composer
+
+Database
+  - MySQL
+  - SQL Server
+  - PostgreSQL
   
 <!---
 Pugpaprika21/Pugpaprika21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
