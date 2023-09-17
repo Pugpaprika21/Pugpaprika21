@@ -14,8 +14,8 @@ Programing Language
       - Framework
             - Laravel
             - Slim                
-  -  SQL
-  -  Golang       
+  -  Golang
+  -  SQL   
   
 tool
   -  visual studio code
