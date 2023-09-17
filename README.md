@@ -4,7 +4,10 @@ Programing Language
   -  HTML 
   -  CSS
   -  JAVASCRIPT
-  -  PHP                
+  -  PHP
+      - Framework
+            - Laravel
+            - Slim                
   -  SQL
   -  Golang       
   
