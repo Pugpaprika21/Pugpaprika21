@@ -1,21 +1,21 @@
 - 👋 Hi, I’m @Pug
 
-Programing Language
-  -  HTML 
-  -  CSS
+programing Language
+  -  html 
+  -  css
       - Framework
             - Bootstrap
-  -  JAVASCRIPT
+  -  js
       - Framework
             - Vue
       - library
             - JQuery
-  -  PHP
+  -  php
       - Framework
             - Laravel
             - Slim                
-  -  Golang
-  -  SQL   
+  -  golang
+  -  sql   
   
 tool
   -  visual studio code
@@ -23,10 +23,10 @@ tool
   -  navicat
   -  composer
 
-Database
-  - MySQL
-  - SQL Server
-  - PostgreSQL
+database
+  - mysql
+  - sql server
+  - postgreSQL
   
 <!---
 Pugpaprika21/Pugpaprika21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
