@@ -3,7 +3,13 @@
 Programing Language
   -  HTML 
   -  CSS
+      - Framework
+            - Bootstrap
   -  JAVASCRIPT
+      - Framework
+            - Vue
+      - library
+            - JQuery
   -  PHP
       - Framework
             - Laravel
@@ -11,13 +17,6 @@ Programing Language
   -  SQL
   -  Golang       
   
-Framework & library
-  -  Bootstrap
-  -  JQuery
-  -  VueJS Framework
-  -  Laravel Framework
-  -  Slim Framework
-
 tool
   -  visual studio code
   -  git
