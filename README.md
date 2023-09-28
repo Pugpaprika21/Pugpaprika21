@@ -9,7 +9,7 @@ programing Language
   - framework
     - vue
   - library
-    - jQuery
+    - jquery
 - php
   - framework
     - laravel
