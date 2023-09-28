@@ -1,21 +1,21 @@
 - 👋 Hi, I’m @Pug
 
 programing Language
-  -  html 
-  -  css
-      - framework
-            - Bootstrap
-  -  js
-      - framework
-            - Vue
-      - library
-            - JQuery
-  -  php
-      - framework
-            - Laravel
-            - Slim                
-  -  golang
-  -  sql   
+- html 
+- css
+  - framework
+    - bootstrap
+- js
+  - framework
+    - vue
+  - library
+    - jQuery
+- php
+  - framework
+    - Laravel
+    - Slim                
+- golang
+- sql   
   
 tool
   -  visual studio code
