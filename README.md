@@ -12,8 +12,8 @@ programing Language
     - jQuery
 - php
   - framework
-    - Laravel
-    - Slim                
+    - laravel
+    - slim                
 - golang
 - sql   
   
@@ -26,7 +26,7 @@ tool
 database
   - mysql
   - sql server
-  - postgreSQL
+  - postgre sql
   
 <!---
 Pugpaprika21/Pugpaprika21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
