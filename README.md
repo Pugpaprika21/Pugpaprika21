@@ -3,15 +3,15 @@
 programing Language
   -  html 
   -  css
-      - Framework
+      - framework
             - Bootstrap
   -  js
-      - Framework
+      - framework
             - Vue
       - library
             - JQuery
   -  php
-      - Framework
+      - framework
             - Laravel
             - Slim                
   -  golang
