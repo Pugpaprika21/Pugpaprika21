@@ -3,19 +3,14 @@
 programing Language
 - html 
 - css
-  - framework
-    - bootstrap
+    - Bootstrap
 - js
-  - framework
-    - vue
-  - library
-    - jquery
+    - VueJS
+    - JQuery
 - php
-  - framework
-    - laravel
-    - slim                
+    - Laravel
+    - Slim                
 - golang
-  - framework
     - Gin
 - sql   
   
