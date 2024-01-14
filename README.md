@@ -16,7 +16,7 @@ programing Language
     - slim                
 - golang
   - framework
-    - Gin Web Framework
+    - Gin
 - sql   
   
 tool
