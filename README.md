@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Pug
 
-# Teck Stack 🙋‍♂️
+# Tech Stack 🙋‍♂️
 - html 
 - css
     - Bootstrap
