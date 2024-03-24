@@ -1,31 +1,19 @@
 - 👋 Hi, I’m @Pug
 
-programing Language
+Teck Stack
 - html 
 - css
     - Bootstrap
 - js
-    - VueJS
-    - JQuery
+    - Vue js, JQuery
 - php
-    - Laravel
-    - Slim                
+    - Laravel, Slim                
 - Go
-    - Fiber
-    - Gin
-    - Echo
-- sql   
-  
+    - Fiber, Echo, Gin 
 tool
-  -  visual studio code
-  -  git
-  -  navicat
-  -  composer
-
+  -  Visual studio code, Git, Navicat, Composer, Docker
 database
-  - mysql
-  - sql server
-  - postgre sql
+  - MySQL, MicrosoftSQLServer, PostgreSQL
   
 <!---
 Pugpaprika21/Pugpaprika21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
