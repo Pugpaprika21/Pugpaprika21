@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Pug
+### 👋 Hi, I’m @Pug
 
 #### Tech Stack 🙋‍♂️
 - html 
