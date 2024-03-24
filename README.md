@@ -15,7 +15,7 @@
   -  Visual studio code, Git, Navicat, Composer, Docker
     
 #### DB 📦
-  - MySQL, MicrosoftSQLServer, PostgreSQL
+  - MySQL, SQLServer, PostgreSQL
   
 <!---
 Pugpaprika21/Pugpaprika21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
