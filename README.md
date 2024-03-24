@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pug
+# 👋 Hi, I’m @Pug
 
-Teck Stack 🙋‍♂️
+# Teck Stack 🙋‍♂️
 - html 
 - css
     - Bootstrap
@@ -11,10 +11,10 @@ Teck Stack 🙋‍♂️
 - Go
     - Fiber, Echo, Gin
       
-Tool 🔨
+# Tool 🔨
   -  Visual studio code, Git, Navicat, Composer, Docker
     
-DB 📦
+# DB 📦
   - MySQL, MicrosoftSQLServer, PostgreSQL
   
 <!---
