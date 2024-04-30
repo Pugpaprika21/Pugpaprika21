@@ -17,9 +17,9 @@
 #### DB 📦
   - MySQL, SQLServer, PostgreSQL
 
-#### contact me
-    - phone +66 96 107 8531
-    - gmail satit.ingein@gmail.com
+#### Contact me
+    - Phone +66 96 107 8531
+    - Gmail satit.ingein@gmail.com
 
 <!---
 Pugpaprika21/Pugpaprika21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
