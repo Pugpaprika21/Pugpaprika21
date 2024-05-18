@@ -9,7 +9,7 @@
 - php
     - Laravel, Slim                
 - Go
-    - Fiber, Echo, Gin
+    - Echo
       
 #### Tool 🔨
   -  Visual studio code, Git, Navicat, Composer, Docker
