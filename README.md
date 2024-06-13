@@ -12,7 +12,7 @@
     - Echo
       
 #### Tool 🔨
-  -  Visual studio code, Git, Navicat, Composer, Docker
+  -  Vscode, Git, Github, Docker
     
 #### DB 📦
   - MySQL, SQLServer, PostgreSQL
