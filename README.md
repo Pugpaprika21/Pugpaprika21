@@ -5,11 +5,11 @@
 - css
     - Bootstrap
 - js
-    - Vue js, JQuery
+    - Vue js, jquery
 - php
     - Laravel, Slim                
 - Go
-    - Echo
+    - Echo, Fiber
       
 #### Tool 🔨
   -  Vscode, Git, Github, Docker
