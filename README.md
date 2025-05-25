@@ -5,7 +5,7 @@
 - css
     - Bootstrap
 - js
-    - Vue js, jquery
+    - VueJS, NextJS, Jquery
 - php
     - Laravel, Slim                
 - Go
